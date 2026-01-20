@@ -6,6 +6,8 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/153327536?v=4" width="150" />
+  <img src="https://api.dicebear.com/7.x/notionists/svg?seed=Ikram">
+
 </p>
 
 ---
@@ -51,26 +53,27 @@ Secure electoral database management system with data integrity & access control
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Kanouz&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanouz&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ikram-kanouz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ikram%20Kanouz-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="mailto:kanouzikram@email.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
   <a href="https://instagram.com/votre_username">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
 
 ---
 

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/[kanouz](https://avatars.githubusercontent.com/u/153327536?v=4)?v=4" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/153327536?v=4" width="150" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ## 🚀 About Me
 
 Young graduate in **Data Analytics and Artificial Intelligence**, with a strong foundation in **data analysis**, **information systems**, and **data-driven decision making**.  
-Currently pursuing professional training in **Oracle Database Administration** through the **JobInTech program at SUPEMIR (Casablanca)**, where I strengthen my skills in **SQL**, **Oracle administration**, **user management**, **backup & recovery (RMAN)**, **data security**, and **performance optimization**.  
-My profile bridges **Data Analytics, AI, and Database Administration**, with a technical, structured, and performance-oriented mindset.
+Currently pursuing professional training in **Oracle Database Administration** through the **JobInTech program at SUPEMIR (Casablanca)**, strengthening my expertise in **SQL**, **Oracle administration**, **user management**, **RMAN backup & recovery**, **data security**, and **performance optimization**.  
+I bridge **Data Analytics, AI, and Database Administration** with a structured and performance-oriented mindset.
 
 ---
 
@@ -25,43 +25,33 @@ My profile bridges **Data Analytics, AI, and Database Administration**, with a t
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=uml,windows&perline=8" />
+  <img src="https://img.shields.io/badge/UML-Modeling-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Virtual%20Machine-VirtualBox-blue?style=for-the-badge&logo=virtualbox" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 **Classification du Diagnostic du Cancer du Sein**  
-Machine Learning classification project using Python & Jupyter Notebook  
-🔗 https://github.com/Ikram-Kanouz/Classification-du-Diagnostic-du-Cancer-du-Sein  
+🔹 **[Classification du Diagnostic du Cancer du Sein](https://github.com/Ikram-Kanouz/Classification-du-Diagnostic-du-Cancer-du-Sein)**  
+Machine Learning classification using Python & Jupyter Notebook  
 
-🔹 **Classification d’Images de Déchets**  
+🔹 **[Classification d’Images de Déchets](https://github.com/Ikram-Kanouz/Classification-d-Images-de-D-chets)**  
 Image classification project for waste categorization  
-🔗 https://github.com/Ikram-Kanouz/Classification-d-Images-de-D-chets  
 
-🔹 **Secure Election System**  
-Secure electoral database management system focused on data integrity and access control  
-🔗 https://github.com/Ikram-Kanouz/secure-election-system  
+🔹 **[Secure Election System](https://github.com/Ikram-Kanouz/secure-election-system)**  
+Secure electoral database management system with data integrity & access control  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikram-Kanouz&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanouz&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikram-Kanouz&theme=radical" />
-</p>
-
----
-
-## ✨ Activity Overview (Stable Animation)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ikram-Kanouz&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Kanouz&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -70,21 +60,21 @@ Secure electoral database management system focused on data integrity and access
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ikram-kanouz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ikram%20Kanouz-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="mailto:kanouzikram@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://instagram.com/votre_username">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ Thank you for visiting my profile ✨ <br/>
+  ✨ Thank you for visiting my profile ✨<br/>
   <strong>Ikram Kanouz</strong> 🚀
 </p>

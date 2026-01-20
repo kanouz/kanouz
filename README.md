@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/153327536?v=4" width="150" />
-  <img src="https://api.dicebear.com/7.x/notionists/svg?seed=Ikram">
-
 </p>
 
 ---

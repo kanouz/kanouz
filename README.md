@@ -56,7 +56,7 @@
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikram-Kanouz&show_icons=true&theme=radical" alt="Ikram GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanouz&show_icons=true&theme=radical" alt="Ikram GitHub stats" />
 </p>
 
 ---

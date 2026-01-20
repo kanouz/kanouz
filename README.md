@@ -58,7 +58,7 @@ Secure electoral database management system with data integrity & access control
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ikram Kanouz/">
+  <a href="https://www.linkedin.com/in/[IkramKanouz](https://www.linkedin.com/in/ikram-kanouz-8484521a6/)/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:kanouzikram@gmail.com">

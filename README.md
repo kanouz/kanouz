@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋 Welcome to my GitHub</h1>
+<h1 align="center">👋 Welcome to my GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D310&center=true&vCenter=true&width=750&lines=Data+Analytics+%26+AI+Professional;Oracle+Database+Administration+Junior;Passionate+about+Data+and+Information+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D310&center=true&vCenter=true&width=800&lines=Data+Analytics+%26+AI+Graduate;Oracle+Database+Administration+Journey;Passionate+about+Data+%26+Information+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/XXXXXXXX?v=4" width="150" style="border-radius:50%" />
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/XXXXXXX?v=4" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/[kanouz](https://avatars.githubusercontent.com/u/153327536?v=4)?v=4" width="150" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Data Analytics & Artificial Intelligence graduate with a strong interest in **database administration and data-driven systems**.
-
-📊 Currently training as an **Oracle Database Administrator** through the **JobInTech program (Supemir – Casablanca)**
+Young graduate in **Data Analytics and Artificial Intelligence**, with a strong foundation in **data analysis**, **information systems**, and **data-driven decision making**.  
+Currently pursuing professional training in **Oracle Database Administration** through the **JobInTech program at SUPEMIR (Casablanca)**, where I strengthen my skills in **SQL**, **Oracle administration**, **user management**, **backup & recovery (RMAN)**, **data security**, and **performance optimization**.  
+My profile bridges **Data Analytics, AI, and Database Administration**, with a technical, structured, and performance-oriented mindset.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,python,pandas,tensorflow,linux,git,github,html,css,js,php,bootstrap&perline=7" />
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,python,pandas,tensorflow,linux,git,github,vscode,anaconda,java,eclipse,html,css,js,php,bootstrap&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=uml,windows&perline=8" />
 </p>
 
 ---
@@ -33,15 +33,15 @@
 ## 📂 Featured Projects
 
 🔹 **Classification du Diagnostic du Cancer du Sein**  
-📌 Machine Learning classification using Python and Jupyter Notebook  
+Machine Learning classification project using Python & Jupyter Notebook  
 🔗 https://github.com/Ikram-Kanouz/Classification-du-Diagnostic-du-Cancer-du-Sein  
 
 🔹 **Classification d’Images de Déchets**  
-📌 Image classification project for waste categorization  
+Image classification project for waste categorization  
 🔗 https://github.com/Ikram-Kanouz/Classification-d-Images-de-D-chets  
 
 🔹 **Secure Election System**  
-📌 Secure electoral database management system focused on data integrity and access control  
+Secure electoral database management system focused on data integrity and access control  
 🔗 https://github.com/Ikram-Kanouz/secure-election-system  
 
 ---
@@ -58,7 +58,7 @@
 
 ---
 
-## ✨ Activity Animation (Alternative to Snake)
+## ✨ Activity Overview (Stable Animation)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ikram-Kanouz&theme=radical" />
@@ -66,18 +66,7 @@
 
 ---
 
-## 🐍 Contribution Animation (Optional)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikram-Kanouz/Ikram-Kanouz/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Kanouz/Kanouz/output/snake.svg" alt="Snake animation">
-  </picture>
-</p>
-
----
-
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ikram-kanouz/">
@@ -91,4 +80,11 @@
   <a href="https://instagram.com/votre_username">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thank you for visiting my profile ✨ <br/>
+  <strong>Ikram Kanouz</strong> 🚀
 </p>

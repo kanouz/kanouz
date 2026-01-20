@@ -1,61 +1,75 @@
-## 👋 About Me
+# 👋 Bienvenue sur mon profil !
+<p align="left">
+  <a href="https://github.com/Ikram-Kanouz">
+    <img src="https://komarev.com/ghpvc/?username=Ikram-Kanouz&color=00D310&style=flat-square" alt="Profile views" />
+  </a>
+</p>
+
+## 🚀 À propos de moi
 
 🎓 Jeune diplômée en **Data Analytics et Intelligence Artificielle**, avec une base solide en analyse des données, compréhension des systèmes d’information et exploitation des données pour la prise de décision.
 
-📊 Actuellement en formation **Administration de Bases de Données Oracle** dans le cadre du programme **JobInTech à Supemir (Casablanca)**, je renforce mes compétences en gestion, organisation et sécurisation des bases de données, ainsi qu’en **SQL, administration Oracle, gestion des utilisateurs, sauvegarde et restauration des données** et **optimisation des performances**.
+📊 Actuellement en formation **Administration de Bases de Données Oracle** dans le cadre du programme **JobInTech à Supemir (Casablanca)**, je me spécialise en :
+* **Gestion et sécurisation** des infrastructures de données.
+* **Administration Oracle** (Installation, gestion des utilisateurs, optimisation).
+* **Haute disponibilité** avec **Oracle RAC** (Real Application Clusters) et **ASM**.
+* **Stratégies de sauvegarde** et restauration via **RMAN**.
 
-💡 Mon parcours me permet d’allier **analyse des données, intelligence artificielle et administration des bases de données**, avec une approche à la fois technique et orientée performance. Je m’implique pleinement dans les projets pratiques et les travaux appliqués.
-
-🚀 Passionnée par les données et les systèmes d’information, je m’intéresse particulièrement aux solutions permettant de **transformer la donnée en valeur stratégique** pour les organisations.
+💡 Mon approche allie technique et performance pour transformer la donnée en valeur stratégique pour les organisations.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-#### 🗄️ Bases de Données & Oracle
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![RMAN](https://img.shields.io/badge/RMAN-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle RAC](https://img.shields.io/badge/Oracle%20RAC-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Data Guard](https://img.shields.io/badge/Oracle%20Data%20Guard-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Bases de Données & Administration Oracle
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Oracle_RAC-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="RAC"/>
+  <img src="https://img.shields.io/badge/RMAN-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="RMAN"/>
+</p>
 
-#### 🔧 Administration & Sécurité
-- Administration des bases de données
-- Installation Oracle
-- Sauvegarde & restauration
-- Sécurité des bases de données
+### 📊 Data Analytics & Intelligence Artificielle
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</p>
 
-#### 📊 Data Analytics & Intelligence Artificielle
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🌐 Développement Web
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+</p>
 
-#### 🌐 Développement Web
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚙️ Outils & Environnements
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+</p>
 
-#### ⚙️ Outils & Environnements
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-#### 🤝 Soft Skills
-- Communication
-- Travail en équipe
-- Esprit analytique
-- Rigueur et organisation
+## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikram-Kanouz&show_icons=true&theme=radical" alt="Ikram GitHub stats" />
+</p>
 
+---
 
-### 📫 Contact
-
-- 📧 Email : kanouzikram@email.com  
-- 🔗 LinkedIn : Ikram Kanouz
+## 📫 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/ikram-kanouz/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ikram Kanouz" height="30" width="40" />
+  </a>
+  <a href="mailto:kanouzikram@email.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope-g-mail.svg" alt="kanouzikram@email.com" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/adore_ikram_" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="votre_username" height="30" width="40" />
+  </a>
+</p>

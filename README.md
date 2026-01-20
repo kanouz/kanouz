@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋 Welcome to my GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D310&center=true&vCenter=true&width=750&lines=Data+Analytics+%26+AI+Professional;Oracle+Database+Administration+Journey;Passionate+about+Data+and+Information+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D310&center=true&vCenter=true&width=750&lines=Data+Analytics+%26+AI+Professional;Oracle+Database+Administration+Junior;Passionate+about+Data+and+Information+Systems" />
 </p>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/XXXXXXXX?v=4" width="150" style="border-radius:50%" />
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/XXXXXXX?v=4" width="150" style="border-radius: 50%;" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-Engaged in a professional **Oracle Database Administration** journey within the **JobInTech program at SUPEMIR**, I leverage my background in **Private Law** and extensive experience in **Operations & Supervision** to design **secure, reliable, and high-performance database environments**. I specialize in **Oracle Multitenant Architecture**, **RMAN Backup & Recovery**, and **Data Cleansing (ETL)**, with a strong passion for data analytics and information systems.
+🎓 Data Analytics & Artificial Intelligence graduate with a strong interest in **database administration and data-driven systems**.
+
+📊 Currently training as an **Oracle Database Administrator** through the **JobInTech program (Supemir – Casablanca)**
 
 ---
 
@@ -65,7 +71,7 @@ Engaged in a professional **Oracle Database Administration** journey within the 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikram-Kanouz/Ikram-Kanouz/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Ikram-Kanouz/Ikram-Kanouz/output/snake.svg" alt="Snake animation">
+    <img src="https://raw.githubusercontent.com/Kanouz/Kanouz/output/snake.svg" alt="Snake animation">
   </picture>
 </p>
 

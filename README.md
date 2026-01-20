@@ -74,5 +74,5 @@ Secure electoral database management system with data integrity & access control
 
 <p align="center">
   ✨ Thank you for visiting my profile ✨<br/>
-  <strong>Ikram Kanouz</strong> 🚀
+  <strong>Ikram Kanouz</strong> 
 </p>

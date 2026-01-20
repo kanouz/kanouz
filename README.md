@@ -25,7 +25,6 @@ I bridge **Data Analytics, AI, and Database Administration** with a structured a
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UML-Modeling-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Virtual%20Machine-VirtualBox-blue?style=for-the-badge&logo=virtualbox" />
 </p>
 
@@ -58,16 +57,14 @@ Secure electoral database management system with data integrity & access control
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ikram-kanouz/">
+  <a href="https://www.linkedin.com/in/Ikram Kanouz/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:kanouzikram@email.com">
+  <a href="mailto:kanouzikram@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://instagram.com/votre_username">
+  <a href="https://instagram.com/adore_ikram_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>

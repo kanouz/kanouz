@@ -32,13 +32,13 @@ I bridge **Data Analytics, AI, and Database Administration** with a structured a
 
 ## 📂 Featured Projects
 
-🔹 **[Classification du Diagnostic du Cancer du Sein](https://github.com/Ikram-Kanouz/Classification-du-Diagnostic-du-Cancer-du-Sein)**  
+🔹 **[Classification du Diagnostic du Cancer du Sein](https://github.com/Kanouz/Classification-du-Diagnostic-du-Cancer-du-Sein)**  
 Machine Learning classification using Python & Jupyter Notebook  
 
-🔹 **[Classification d’Images de Déchets](https://github.com/Ikram-Kanouz/Classification-d-Images-de-D-chets)**  
+🔹 **[Classification d’Images de Déchets](https://github.com/Kanouz/Classification-d-Images-de-D-chets)**  
 Image classification project for waste categorization  
 
-🔹 **[Secure Election System](https://github.com/Ikram-Kanouz/secure-election-system)**  
+🔹 **[Secure Election System](https://github.com/Kanouz/secure-election-system)**  
 Secure electoral database management system with data integrity & access control  
 
 ---

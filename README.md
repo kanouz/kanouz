@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://ikram-kanouz-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000?style=for-the-badge&logo=vercel&labelColor=black" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/153327536?v=4" width="150" />
 </p>
 

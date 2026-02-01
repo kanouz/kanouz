@@ -58,14 +58,20 @@ Secure electoral database management system with data integrity & access control
 ## 📫 Connect With Me
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/ikram-kanouz-8484521a6/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://ikram-kanouz-portfolio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" title="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ikram-kanouz-8484521a6/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="https://github.com/Kanouz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
   </a>
   <a href="mailto:kanouzikram@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" />
   </a>
   <a href="https://instagram.com/adore_ikram_">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram" />
   </a>
 </p>
 

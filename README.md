@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://ikram-kanouz-portfolio.vercel.app/](https://ikram-kanouz-portfolio-weld.vercel.app/)">
+  <a href="https://ikram-kanouz-portfolio-weld.vercel.app/">
     <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000?style=for-the-badge&logo=vercel&labelColor=black" />
   </a>
 </p>

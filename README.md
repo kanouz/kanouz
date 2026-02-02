@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ikram-kanouz-portfolio.vercel.app/">
+  <a href="[https://ikram-kanouz-portfolio.vercel.app/](https://ikram-kanouz-portfolio-weld.vercel.app/)">
     <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-000?style=for-the-badge&logo=vercel&labelColor=black" />
   </a>
 </p>
@@ -63,7 +63,7 @@ Secure electoral database management system with data integrity & access control
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://ikram-kanouz-portfolio.vercel.app/" target="_blank">
+  <a href="https://ikram-kanouz-portfolio-weld.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" title="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ikram-kanouz-8484521a6/" target="_blank">
